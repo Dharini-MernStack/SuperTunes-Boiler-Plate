@@ -1,5 +1,8 @@
 # SuperTunes-Boiler-Plate
 
+# Getting Started
+Fork the project and clone it on your local machine. On your terminal, npm install to install packages and npm run start to start the server.
+
 # Key Skills
 The intent of this exercise is to give you a thorough workout on the following React features: Building class components Building presentational function components State management and manipulation using this.setState() Methods Rendering lists & setting the key attribute Using props Implementing prop-type validators
 
